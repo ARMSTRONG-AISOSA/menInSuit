@@ -422,6 +422,7 @@ ol {
     backdrop-filter: blur(3px); 
     -webkit-backdrop-filter: blur(3px);
     padding-top: 30px; 
+    padding-left: 60px; 
 	min-height: 100%;
 	min-width: 100%;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
