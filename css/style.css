@@ -1221,13 +1221,22 @@ ol {
 	line-height: 40px;
 	font-size: 16px;
 	color: #a3a3ae;
-	border: 1px solid #45464e;
+	border: 1px solid #c73d72;
 	border-radius: 50%;
 	margin-right: 15px;
+	transition: all .3s;
+}
+
+.footer-text .ft-social a:hover {
+	transform: scale(1.2);
 }
 
 .footer-text .ft-social a:last-child {
 	margin-right: 0;
+}
+
+.iconColor {
+	color: #c73d72;
 }
 
 /* ----------------------------------- Other Pages Styles ------------------------------- */
