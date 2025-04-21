@@ -32,6 +32,6 @@ function startCountdown(targetDate) {
     const interval = setInterval(updateCountdown, 1000);
 }
 
-// Set the target date (October 20, 2024, 3:00 PM)
-const targetDate = new Date('October 20, 2024 15:00:00').getTime();
+// Set the target date (May 31, 2025, 3:00 PM)
+const targetDate = new Date('May 31, 2025 15:00:00').getTime();
 startCountdown(targetDate);
