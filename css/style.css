@@ -419,8 +419,8 @@ ol {
 
 .glass-container {
     background: rgba(0, 0, 0, 0.5); 
-    backdrop-filter: blur(3px); 
-    -webkit-backdrop-filter: blur(3px);
+    backdrop-filter: blur(1px); 
+    -webkit-backdrop-filter: blur(1px);
     padding-top: 30px; 
     padding-left: 60px; 
 	min-height: 100%;
